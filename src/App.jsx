@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Footef1 from './Footer'
 import Navbar from './Navbar'
-
+import "@fontsource/josefin-sans";
 
 function App() {
   const [count, setCount] = useState(0)
@@ -30,7 +30,7 @@ function App() {
           <img src="./person1.webp" alt="" srcset="" />
         </div>
         <div class = "maincontent">
-          <h1 class = "title1">A World built on <br/> RESARCH <br/> not perfection</h1>
+          <h1 class = "title1">A World built on <br/> <div style={{fontWeight:"bolder"}} id = "grad12">RESARCH</div> not perfection</h1>
           <img src="./continents.jpg" alt="" srcset="" style = {{width:"100%",height:"80vh"}}/>
         </div>
       </div>

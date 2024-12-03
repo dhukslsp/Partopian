@@ -1,6 +1,6 @@
 .footer {
-    background-color: #333;
-    color: #fff;
+    /* background- */
+    background-color: #c5c5c5;
     border-radius: 50% 50% 0 0;
     padding: 40px 0;
     margin-top: auto;
@@ -71,4 +71,6 @@
   h1{
     font-size: 4pc;
     text-align: center;
+    /* font-weight: bolder; */
+    /* font-style: normal; */
   }
