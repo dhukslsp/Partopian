@@ -1,0 +1,98 @@
+.maincontent{
+
+}
+.title1{
+  font-size: 12pc;
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  border-radius: 8px;
+}
+.personContainer img {
+  border-radius: 100%;
+  width:46pc;
+  height:37pc;
+  position: absolute;
+  top: 9%;
+  left: 16%;
+  border: 18px solid black
+}
+
+.personContainer1 img {
+  border-radius: 100%;
+  width:56pc;
+  height:47pc;
+  position: absolute;
+  top: 18%;
+  left: 73%;
+  border: 18px solid black
+}
+
+.personContainer2 img {
+  border-radius: 100%;
+  width:56pc;
+  height:47pc;
+  position: absolute;
+  top: 66%;
+  left: 73%;
+  border: 18px solid black
+}
+
+.personContainer3 img {
+  border-radius: 100%;
+  width:56pc;
+  height:47pc;
+  position: absolute;
+  top: 66%;
+  left: 10%;
+  border: 18px solid black
+}
+
+hr {
+  border: none;
+  border-top: 12px solid #000;
+  margin: 20px 0;
+  position: absolute;
+
+}
+
+.horizontal-line {
+  top: 58%;
+  left: 53%;
+  position: absolute;
+  width: 66%;
+  height: 41pc;
+  border: 2px solid black;
+  border-radius: 50%;
+  transform-origin: left center;
+  border-bottom: none;
+  transform: rotate(-18deg) translate(-50%, -50%);
+}
+
+
+.horizontal-line2{
+  top: 19%;
+    left: 23%;
+    position: absolute;
+    height: 60%;
+    border: 2px solid black;
+    border-radius: 50%;
+    transform-origin: left center;
+    border-bottom: none;
+    transform: rotate(20eg) translate(-50%, -50%);
+}
+
+.horizontal-line23{
+  top: 31%;
+  left: 81%;
+  position: absolute;
+  height: 60%;
+  border: 2px solid black;
+  border-radius: 50%;
+  transform-origin: left center;
+  border-bottom: none;
+  transform: rotate(20eg) translate(-50%, -50%);
+}
