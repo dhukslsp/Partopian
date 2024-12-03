@@ -11,7 +11,8 @@ function App() {
       <div>
         <div class="line horizontal-line"></div>
         <div class="line horizontal-line2"></div>
-        <div class="line horizontal-line23"></div>
+        <div class="line horizontal-line3"></div>
+        <div class="line horizontal-line4"></div>
         <div class = "personContainer">
           <img src="./person1.webp" alt="" srcset="" />
         </div>

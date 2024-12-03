@@ -85,7 +85,7 @@ hr {
     transform: rotate(20eg) translate(-50%, -50%);
 }
 
-.horizontal-line23{
+.horizontal-line3{
   top: 31%;
   left: 81%;
   position: absolute;
@@ -95,4 +95,14 @@ hr {
   transform-origin: left center;
   border-bottom: none;
   transform: rotate(20eg) translate(-50%, -50%);
+}
+
+.horizontal-line4{
+  position: absolute;
+  top: 20%;
+  left: 29%;
+  width: 51%;
+  height: 8px;
+  background-color: black;
+  margin: 20px 0;
 }
