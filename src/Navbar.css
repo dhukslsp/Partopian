@@ -46,4 +46,26 @@ body {
     justify-content: space-between
 }
 
-
+.search-container {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+  }
+  
+  .search-input {
+    position: absolute;
+    top: 67%;
+    width: 23%;
+    left: 37%;
+    padding: 20px 26px;
+    border: none;
+    border-radius: 8px;
+    background-color: #e6e6e6;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  .search-input::placeholder {
+    color: #666;
+    font-family: sans-serif;
+  }

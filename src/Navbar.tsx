@@ -13,7 +13,7 @@ const Navbar = () => {
                 </ul>
 
             </nav>
-            <ul className="nav-links" style = {{marginTop:"21px"}}>
+            <ul className="nav-links" style = {{marginTop:"21px",marginRight:"11px"}}>
                 <li><a href="#home">Login</a></li>
                 <li><a href="#about" style={{ background: "black", color: "white", borderRadius: "20px" }}>Getting Started</a></li>
             </ul>

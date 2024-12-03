@@ -21,7 +21,7 @@
   position: absolute;
   top: 13%;
   left: 23%;
-  border: 4px solid rgb(42, 226, 42);
+  border: 4px solid #BDD600;
 }
 
 .personContainer1 img {
@@ -31,7 +31,7 @@
   position: absolute;
   top: 18%;
   left: 73%;
-  border: 4px solid rgb(42, 226, 42);
+  border: 4px solid #BDD600;
 }
 
 .personContainer2 img {
@@ -41,7 +41,7 @@
   position: absolute;
   top: 66%;
   left: 66%;
-  border: 4px solid rgb(42, 226, 42);
+  border: 4px solid #BDD600;
 }
 
 .personContainer3 img {
@@ -51,7 +51,7 @@
   position: absolute;
   top: 58%;
   left: 18%;
-  border: 4px solid rgb(42, 226, 42);
+  border: 4px solid #BDD600;
 }
 
 hr {

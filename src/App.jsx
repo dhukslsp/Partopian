@@ -31,6 +31,13 @@ function App() {
         </div>
         <div class = "maincontent">
           <h1 class = "title1">A World built on <br/> <div style={{fontWeight:"bolder"}} id = "grad12">RESARCH</div> not perfection</h1>
+          <div className="search-container">
+            <input
+              type="text"
+              placeholder="Search for"
+              className="search-input"
+            />
+          </div>
           <img src="./continents.jpg" alt="" srcset="" style = {{width:"100%",height:"80vh"}}/>
         </div>
       </div>
