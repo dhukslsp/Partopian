@@ -2,7 +2,7 @@
 
 }
 .title1{
-  font-size: 12pc;
+  font-size: 56px;
   text-align: left;
   position: absolute;
   top: 50%;
@@ -13,42 +13,42 @@
 }
 .personContainer img {
   border-radius: 100%;
-  width:46pc;
-  height:37pc;
+  width:20pc;
+  height:14pc;
   position: absolute;
   top: 9%;
   left: 16%;
-  border: 18px solid black
+  border: 8px solid black
 }
 
 .personContainer1 img {
   border-radius: 100%;
-  width:56pc;
-  height:47pc;
+  width:15pc;
+  height:10pc;
   position: absolute;
   top: 18%;
   left: 73%;
-  border: 18px solid black
+  border: 8px solid black
 }
 
 .personContainer2 img {
   border-radius: 100%;
-  width:56pc;
-  height:47pc;
+  width:15pc;
+  height:10pc;
   position: absolute;
   top: 66%;
   left: 73%;
-  border: 18px solid black
+  border: 8px solid black
 }
 
 .personContainer3 img {
   border-radius: 100%;
-  width:56pc;
-  height:47pc;
+  width:15pc;
+  height:10pc;
   position: absolute;
   top: 66%;
-  left: 10%;
-  border: 18px solid black
+  left: 18%;
+  border: 8px solid black
 }
 
 hr {
@@ -64,7 +64,7 @@ hr {
   left: 53%;
   position: absolute;
   width: 66%;
-  height: 41pc;
+  height: 21pc;
   border: 2px solid black;
   border-radius: 50%;
   transform-origin: left center;
