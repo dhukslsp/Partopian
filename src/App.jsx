@@ -38,7 +38,7 @@ function App() {
               className="search-input"
             />
           </div>
-          <img src="./continents.jpg" alt="" srcset="" style = {{width:"100%",height:"80vh"}}/>
+          <img src="./continents1.jpg" alt="" srcset="" style = {{width:"100%",height:"80vh"}}/>
         </div>
       </div>
       <Footef1/>
